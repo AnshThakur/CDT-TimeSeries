@@ -96,6 +96,8 @@ You should be able see the notebooks now.
 <table>
   <tr>
    <td align="center"><a href="https://www.andrewcreagh.com/"><img src="https://avatars.githubusercontent.com/u/22932251?v=4" width="120px;" alt=""/><br /><sub><b>Dr. Andrew P. Creagh</b></sub> </a> </td>
+    <td align="center"> <b>Special thanks to Dr. Andrew Creagh for designing a major portion of lab modules.</b>
+    
 </table>
 
 <!-- markdownlint-restore -->
