@@ -31,23 +31,17 @@ University of Oxford<br />
 This repository aims to provide an introduction to the fundamentals of applying machine learning (ML) to medical time-series data. Within this module, you will discover that ML for time-series differs from traditional image-based or static modeling. You will gain insights into the essential pre-processing steps tailored to time-series data and learn how to frame the problem and task in a temporal context. This course will introduce fundamental time-series models, such as Autogresssive (AR) process, Markov Chains, and Hidden Markov Models (HMM), right through to Recurrent Neural Networks (RNNs) - staples of time-series data applied to healthcare problems.  In the latter part of this course, we delve into the privacy considerations surrounding healthcare data, exploring how federated learning and dataset condensation have the potential to facilitate the democratization of healthcare data.<br>
 
 ## Lab Schedule: ML 4 Time-series
-- Lab 1: Essential Methodology - Pre-processing, basic predictive modelling & autogressive modelling ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/blob/main/labs/lab_1/CDT_ML4timeseries_Lab_1.ipynb)))
+- Lab 1: Essential Methodology - Pre-processing, basic predictive modelling & autogressive modelling ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/blob/main/labs/lab_1/CDT_ML4timeseries_Lab_1.ipynb))
 ---
 - Lab 2: Gaussian processes ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_2))
 ---
-- Day 3: Recurrent Neural Networks ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-RNN_2022.pdf))
-- Day 3: Advanced Recurrent Neural Networks and Multi-task learning ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-MTL-MTA_2022.pdf))
+- Lab 3: Recurrent Neural Networks ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_3))
 ---
-- Day 4: Transformations ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-FFT_2022.pdf))
-- Day 4: Learning time-series features ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-CNN_2022.pdf))
-- Lab 3: Recurrent Neural Networks ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/labs/lab_3))
----
-- Day 5: Deep Survival Analysis (lecture slides)
-- Day 5: AI/ML 4 clincial time-series applications (lecture slides)
 - Lab 4: Multi-task learning and Meta-learning for time-series ([lab materials](https://canvas.ox.ac.uk/courses/151592/files/4943018?))
 
 Further lecture materials can be found on
 [canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/151592/pages/hds-m05-module-info-machine-learning-for-time-series)
+
 ## Data Access
 The accompanying pre-processed data for this module can be downloaded via 
 [canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/151592/files/4929999?wrap=1)
