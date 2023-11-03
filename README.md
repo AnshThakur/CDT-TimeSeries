@@ -1,7 +1,7 @@
-# CDT Workshop ML 4 time-series
+# CDT Workshop ML 4 Time-series
 ### The Oxford EPSRC CDT in Health Data Science
 HDS-M05: Module - Machine Learning for Time Series <br>
-November 7 - 13, 2022 <br>
+November 6 - 10, 2023 <br>
 
 
 ## Lab Course Designers
