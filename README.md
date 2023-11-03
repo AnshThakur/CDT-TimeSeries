@@ -31,7 +31,7 @@ University of Oxford<br />
 This repository aims to provide an introduction to the fundamentals of applying machine learning (ML) to medical time-series data. Within this module, you will discover that ML for time-series differs from traditional image-based or static modeling. You will gain insights into the essential pre-processing steps tailored to time-series data and learn how to frame the problem and task in a temporal context. This course will introduce fundamental time-series models, such as Autogresssive (AR) process, Markov Chains, and Hidden Markov Models (HMM), right through to Recurrent Neural Networks (RNNs) - staples of time-series data applied to healthcare problems.  In the latter part of this course, we delve into the privacy considerations surrounding healthcare data, exploring how federated learning and dataset condensation have the potential to facilitate the democratization of healthcare data.<br>
 
 ## Lab Schedule: ML 4 Time-series
-- Lab 1: Essential Methodology - Preprocessing, basic predictive modelling and Autogressive Modelling ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/labs/lab_1))
+- Lab 1: Essential Methodology - Pre-processing, basic predictive modelling & autogressive modelling ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/blob/main/labs/lab_1/CDT_ML4timeseries_Lab_1.ipynb)))
 ---
 - Day 2: Getting started with Gaussian processes (lecture slides)
 - Day 2: Advanced Gaussian processes ([lecture slides](https://canvas.ox.ac.uk/courses/151592/files/4934754?wrap=1))
