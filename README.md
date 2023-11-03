@@ -83,6 +83,21 @@ The accompanying pre-processed data for this module can be downloaded via
    ```
    Note: You can use the same port numbers for both local and remote.
 
+## Acknowledgement
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+   <td align="center"><a href="https://www.andrewcreagh.com/"><img src="https://avatars.githubusercontent.com/u/22932251?v=4" width="120px;" alt=""/><br /><sub><b>Dr. Andrew P. Creagh</b></sub> </a> </td>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+   
+
 1. Finally, copy the URL from step 1. Then in your local machine, open
 Chrome and paste the URL, but change the port to the local port (or do nothing else if you used the same port).
 You should be able see the notebooks now.
