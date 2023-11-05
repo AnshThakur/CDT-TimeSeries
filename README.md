@@ -8,13 +8,7 @@ November 6 - 10, 2023 <br>
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-   <td align="center"><a href="https://eng.ox.ac.uk/people/anshul-thakur/"><img src="https://eng.ox.ac.uk/media/4496/photo_ath.jpg?center=0.33112582781456956,0.31168831168831168&mode=crop&width=250&height=250&rnd=132651141320000000" width="120px;" alt=""/><br /><sub><b>Dr. Anshul Thakur</b></sub> </a> </td>
-      <td align="center"><a href="https://eng.ox.ac.uk/people/tingting-zhu/"><img src="https://eng.ox.ac.uk/media/9549/photo_ttz2.jpg?center=0.30357142857142855,0.46745562130177515&mode=crop&width=100&height=100&rnd=132690066410000000" width="120px;" alt=""/><br /><sub><b>Dr. Tingting Zhu</b></sub> </a> </td>
-   <td align="center"><a href="https://eng.ox.ac.uk/people/david-clifton/"><img src="https://www.turing.ac.uk/sites/default/files/styles/people/public/2021-12/david_clifton.jpg?itok=PYtYVF5_" width="100px;" alt=""/><br /><sub><b>Prof. David Clifton</b></sub> </a> </td>
-    </tr>
-</table>
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
