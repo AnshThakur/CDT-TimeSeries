@@ -50,11 +50,11 @@ The accompanying pre-processed data for this module can be downloaded via
    Exit and re-login so that the above takes effect.
 3. Create an anaconda environment from the provided requirements YAML file: 
    ```bash
-   conda env create -f ml4timeseries.yml
+   conda env create -f lab1Env2023.yml
    ```
 4. You are now ready to use the environment: 
    ```bash
-   conda activate ml4timeseries
+   conda activate lab1Env2023
    ```
    In future logins, you only need to run this last command.
 
