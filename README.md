@@ -16,7 +16,7 @@ November 6 - 10, 2023 <br>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <img src="./img/oxford_eng_logo.png" width="500" height="150" />
-
+CHI Lab,<br/>
 The Institute of Biomedical Engineering, <br />
 Department of Engineering Science,<br />
 University of Oxford<br />
