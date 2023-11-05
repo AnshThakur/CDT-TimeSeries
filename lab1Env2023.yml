@@ -1,4 +1,4 @@
-name: ml4timeseries2023lab1
+name: lab1Env2023
 channels:
   - anaconda
   - conda-forge
