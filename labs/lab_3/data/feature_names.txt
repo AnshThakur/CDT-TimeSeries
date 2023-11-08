@@ -1,0 +1,60 @@
+feature_name
+Diastolic blood pressure
+GCS (total)
+GCS 10
+GCS5
+GCS_1
+GCS_11
+GCS_12
+GCS_13
+GCS_14
+GCS_15
+GCS_16
+GCS_17
+GCS_18
+GCS_19
+GCS_2
+GCS_20
+GCS_21
+GCS_22
+GCS_23
+GCS_24
+GCS_24
+GCS_25
+GCS_26
+GCS_27
+GCS_27
+GCS_28
+GCS_29
+GCS_3
+GCS_30
+GCS_31
+GCS_32
+GCS_33
+GCS_34
+GCS_35
+GCS_35
+GCS_36
+GCS_37
+GCS_38
+GCS_38
+GCS_38
+GCS_39
+GCS_4
+GCS_40
+GCS_6
+GCS_7
+GCS_8
+GCS_9
+Heart Rate
+Height
+ICU_Cardiac Surgery Recovery Unit
+ICU_Coronary Care Unit
+Mean blood pressure
+Oxygen saturation
+Respiratory rate
+Sex
+Systolic blood pressure
+Temperature
+Weight
+pH
