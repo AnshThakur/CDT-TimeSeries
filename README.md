@@ -83,17 +83,6 @@ You should be able see the notebooks now.
 
 
 
-## Acknowledgement
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-   <td align="center"><a href="https://www.andrewcreagh.com/"><img src="https://avatars.githubusercontent.com/u/22932251?v=4" width="120px;" alt=""/><br /><sub><b>Dr. Andrew P. Creagh</b></sub> </a> </td>
-    <td align="center"> <b>Special thanks to Dr. Andrew Creagh for designing a major portion of lab modules.</b>
-    
-</table>
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
