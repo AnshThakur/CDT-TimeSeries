@@ -1,4 +1,4 @@
-name: lab1Env2023
+name: lab1Env2024
 channels:
   - anaconda
   - conda-forge
