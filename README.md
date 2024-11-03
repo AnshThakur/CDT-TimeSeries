@@ -31,6 +31,8 @@ Throughout this course, you will be introduced to essential time-series models, 
 ---
 - Lab 2: Recurrent Neural Networks ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_3))
 ---
+- Lab 3: Graph Neural Networks and Wearables (Coming soon)
+---
 - Lab 4: Multi-task learning and Meta-learning for time-series ([lab materials](https://canvas.ox.ac.uk/courses/151592/files/4943018?))
 ---
 Further lecture materials can be found on
