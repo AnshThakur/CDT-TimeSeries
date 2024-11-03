@@ -29,9 +29,9 @@ Throughout this course, you will be introduced to essential time-series models, 
 ## Lab Schedule: ML 4 Time-series
 - Lab 1: Essential Methodology - Pre-processing, basic predictive modelling & autogressive modelling ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/blob/main/labs/lab_1/CDT_ML4timeseries_Lab_1.ipynb))
 ---
-- Lab 2: Recurrent Neural Networks ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_3))
+- Lab 2: Recurrent Neural Networks ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_2))
 ---
-- Lab 3: Graph Neural Networks and Wearables (Coming soon)
+- Lab 3: Graph Neural Networks and Wearables ([lab/wearable materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_3/wearable), graph coming soon)
 ---
 - Lab 4: Multi-task learning and Meta-learning for time-series ([lab materials](https://canvas.ox.ac.uk/courses/151592/files/4943018?))
 ---
