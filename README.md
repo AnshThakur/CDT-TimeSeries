@@ -36,7 +36,7 @@ Throughout this course, you will be introduced to essential time-series models, 
 - Lab 4: Multi-task learning and Meta-learning for time-series ([lab materials](https://canvas.ox.ac.uk/courses/151592/files/4943018?))
 ---
 Further lecture materials can be found on
-[canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/151592/pages/hds-m05-module-info-machine-learning-for-time-series)
+[canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/268831/pages/hds-m04-module-info-biomedical-time-series-analysis-2024)
 
 ## Data Access
 The accompanying pre-processed data for this module can be downloaded via 
