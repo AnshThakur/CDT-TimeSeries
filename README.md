@@ -24,7 +24,7 @@ University of Oxford<br />
 ## Lab Overview
 This repository provides a comprehensive introduction to the fundamentals of applying machine learning (ML) to medical time-series data. You’ll explore how ML techniques for time-series data differ from traditional image-based or static models and discover key pre-processing steps specific to time-series data. The module also covers strategies for framing problems and tasks within a temporal context.
 
-Throughout this course, you will be introduced to essential time-series models, including the Autoregressive (AR) process, Recurrent Neural Networks (RNNs), and Transformers—fundamental tools for applying ML to healthcare data. In the latter part of the course, we address privacy considerations in healthcare, examining how techniques like federated learning and dataset condensation can support the democratization of healthcare data.<br>
+Throughout this course, you will be introduced to essential time-series models, including the Autoregressive (AR) process, Recurrent Neural Networks (RNNs), State Space Models and Transformers—fundamental tools for applying ML to healthcare data. In the latter part of the course, we address privacy considerations in healthcare, examining how techniques like federated learning and dataset condensation can support the democratization of healthcare data.<br>
 
 ## Lab Schedule: ML 4 Time-series
 - Lab 1: Essential Methodology - Pre-processing, basic predictive modelling & autogressive modelling ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/blob/main/labs/lab_1/CDT_ML4timeseries_Lab_1.ipynb))
