@@ -85,7 +85,34 @@ It can also be downloaded from [my Google Drive](https://drive.google.com/file/d
 Chrome and paste the URL, but change the port to the local port (or do nothing else if you used the same port).
 You should be able see the notebooks now.
 
+## 🚀 Using Google Colab
 
+You can also run this lab on **[Google Colab](https://colab.research.google.com/)**.
+
+1. **Copy the repository**  
+   Copy or clone the entire repository to your **Google Drive**.  
+   Make sure that all required data files are downloaded and placed in the `Data` folder.
+
+2. **Mount Google Drive**  
+   Open the notebook in Colab.  
+   Before running any other cells, create a new code cell and execute:
+   ```python
+   from google.colab import drive
+   drive.mount('/content/drive')
+   
+3. **Change the working directory**
+   
+   Update the path to point to the folder containing the current notebook:
+   ```python
+   import os
+   project_path = '/content/drive/MyDrive/CDT/labs/lab_1'  # adjust this path if needed
+   os.chdir(project_path)
+   print("Current working directory:", os.getcwd())
+   ```
+   This ensures that the notebook runs from the correct project directory.
+5. **Verify access to data**
+   Once the directory is set, your notebook will have access to the data files stored in your Google Drive.
+   
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
