@@ -29,7 +29,7 @@ Throughout this course, you will be introduced to essential time-series models, 
 ## Lab Schedule: ML 4 Time-series
 - Lab 1: Essential Methodology - Pre-processing, basic predictive modelling & autogressive modelling ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/blob/main/labs/lab_1/CDT_ML4timeseries_Lab_1.ipynb))
 ---
-- Lab 2: Recurrent Neural Networks ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_2))
+- Lab 2: Recurrent Neural Networks and State Space Models
 ---
 
 - Lab 3.1: Graph Neural Networks 
@@ -42,6 +42,7 @@ Throughout this course, you will be introduced to essential time-series models, 
 ## Data Access
 The accompanying pre-processed data for this module can be downloaded via 
 [canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/268831/files/7599044?wrap=1)
+It can also be downloaded from [my Google Drive](https://drive.google.com/file/d/1wXPC1brdP07Ln8rfeKrLCm-7Fg8fsBza/view?usp=sharing)
 
 ## Setup instructions on the Virtual Machines
 1. Load and initialize Anaconda. This needs to be done only once (you may not need to run this if you already see `(bash)` written in front of your prompt).
