@@ -1,7 +1,7 @@
 # CDT Workshop ML 4 Time-series
 ### The Oxford EPSRC CDT in Health Data Science
 HDS-M05: Module - Machine Learning for Time Series <br>
-November 4 - 8, 2024 <br>
+November 3 - 7, 2024 <br>
 
 
 ## Lab Course Designers
@@ -32,14 +32,12 @@ Throughout this course, you will be introduced to essential time-series models, 
 - Lab 2: Recurrent Neural Networks ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_2))
 ---
 
-- Lab 3.1: Graph Neural Networks ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_3/graph))
-- Lab 3.2: Wearable ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_3/wearable)
+- Lab 3.1: Graph Neural Networks 
+- Lab 3.2: Wearable 
 
 ---
-- Lab 4: Multi-task learning and Meta-learning for time-series ([lab materials](https://canvas.ox.ac.uk/courses/151592/files/4943018?))
+- Lab 4: Federated Learning and Dataset condensation for time-series 
 ---
-Further lecture materials can be found on
-[canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/268831/pages/hds-m04-module-info-biomedical-time-series-analysis-2024)
 
 ## Data Access
 The accompanying pre-processed data for this module can be downloaded via 
