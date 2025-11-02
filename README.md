@@ -54,11 +54,11 @@ It can also be downloaded from [my Google Drive](https://drive.google.com/file/d
    Exit and re-login so that the above takes effect.
 3. Create an anaconda environment from the provided requirements YAML file: 
    ```bash
-   conda env create -f lab1Env2024.yml
+   conda env create -f lab1Env2025.yml
    ```
 4. You are now ready to use the environment: 
    ```bash
-   conda activate lab1Env2024
+   conda activate lab1Env2025
    ```
    In future logins, you only need to run this last command.
 
