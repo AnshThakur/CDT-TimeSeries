@@ -41,7 +41,7 @@ Throughout this course, you will be introduced to essential time-series models, 
 
 ## Data Access
 The accompanying pre-processed data for this module can be downloaded via 
-[canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/268831/files/7599044?wrap=1)
+[canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/268831/files/7599044?wrap=1) <br/>
 It can also be downloaded from [my Google Drive](https://drive.google.com/file/d/1wXPC1brdP07Ln8rfeKrLCm-7Fg8fsBza/view?usp=sharing)
 
 ## Setup instructions on the Virtual Machines
