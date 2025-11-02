@@ -17,7 +17,7 @@ November 3 - 7, 2025 <br>
 
 <img src="./img/oxford_eng_logo.png" width="500" height="150" />
 CHI Lab,<br/>
-The Institute of Biomedical Engineering, <br />
+Institute of Biomedical Engineering, <br />
 Department of Engineering Science,<br />
 University of Oxford<br />
 
