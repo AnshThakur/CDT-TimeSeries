@@ -112,8 +112,29 @@ You can also run this lab on **[Google Colab](https://colab.research.google.com/
    This ensures that the notebook runs from the correct project directory.
 5. **Verify access to data**
    Once the directory is set, your notebook will have access to the data files stored in your Google Drive.
-   
 
+##  🧰 Using Python Virtual Environment
+1. Create a virtual environment
+   ```bash
+      python3 -m venv lab2
+   ```  
+2. Activate virtual environment
+   ```bash
+      source lab2/bin/activate
+   ```
+3. Upgrade pip wheel setuptools
+   ```bash
+      pip install --upgrade pip wheel setuptools
+   ```
+4. Install Pytorch and CUDA
+   ``` bash
+       pip install torch==2.0.1+cu117 torchvision==0.15.2+cu117 torchaudio==2.0.2     --index-url https://download.pytorch.org/whl/cu117
+   ```
+5. Install requirements.txt in lab folder e.g. lab_2.
+   ```bash
+      pip install -r requirements.txt
+   ```
+   
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
