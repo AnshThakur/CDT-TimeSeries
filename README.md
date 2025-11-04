@@ -33,7 +33,7 @@ Throughout this course, you will be introduced to essential time-series models, 
 ---
 
 - Lab 3.1: Graph Neural Networks 
-- Lab 3.2: Wearable 
+- Lab 3.2: Wearable ([lab materials](https://github.com/AnshThakur/CDT-TimeSeries/tree/main/labs/lab_3/wearable)
 
 ---
 - Lab 4: Federated Learning and Dataset condensation for time-series 
